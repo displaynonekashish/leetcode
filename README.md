@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/displaynonekashish/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/displaynonekashish/leetcode/tree/master/0069-sqrtx) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/displaynonekashish/leetcode/tree/master/0069-sqrtx) |
 | [1539-kth-missing-positive-number](https://github.com/displaynonekashish/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
