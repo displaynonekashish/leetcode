@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/displaynonekashish/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/displaynonekashish/leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/displaynonekashish/leetcode/tree/master/0202-happy-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/displaynonekashish/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/displaynonekashish/leetcode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/displaynonekashish/leetcode/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/displaynonekashish/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
