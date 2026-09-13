@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/displaynonekashish/leetcode/tree/master/0835-image-overlap) |
 | [1539-kth-missing-positive-number](https://github.com/displaynonekashish/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/displaynonekashish/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/displaynonekashish/leetcode/tree/master/0835-image-overlap) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
