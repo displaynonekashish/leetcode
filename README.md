@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/displaynonekashish/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/displaynonekashish/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/displaynonekashish/leetcode/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/displaynonekashish/leetcode/tree/master/0836-rectangle-overlap) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3870-count-commas-in-range](https://github.com/displaynonekashish/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/displaynonekashish/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/displaynonekashish/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/displaynonekashish/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
