@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0835-image-overlap](https://github.com/displaynonekashish/leetcode/tree/master/0835-image-overlap) |
 | [1539-kth-missing-positive-number](https://github.com/displaynonekashish/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/displaynonekashish/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/displaynonekashish/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/displaynonekashish/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/displaynonekashish/leetcode/tree/master/0069-sqrtx) |
 | [1539-kth-missing-positive-number](https://github.com/displaynonekashish/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/displaynonekashish/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/displaynonekashish/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -80,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/displaynonekashish/leetcode/tree/master/0202-happy-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/displaynonekashish/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/displaynonekashish/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/displaynonekashish/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/displaynonekashish/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/displaynonekashish/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/displaynonekashish/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
