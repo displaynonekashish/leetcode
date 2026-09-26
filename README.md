@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0835-image-overlap](https://github.com/displaynonekashish/leetcode/tree/master/0835-image-overlap) |
 | [1539-kth-missing-positive-number](https://github.com/displaynonekashish/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/displaynonekashish/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/displaynonekashish/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/displaynonekashish/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/displaynonekashish/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/displaynonekashish/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/displaynonekashish/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/displaynonekashish/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/displaynonekashish/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/displaynonekashish/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/displaynonekashish/leetcode/tree/master/0202-happy-number) |
 | [1096-brace-expansion-ii](https://github.com/displaynonekashish/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/displaynonekashish/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/displaynonekashish/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/displaynonekashish/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
