@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/displaynonekashish/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/displaynonekashish/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/displaynonekashish/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/displaynonekashish/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/displaynonekashish/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/displaynonekashish/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/displaynonekashish/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/displaynonekashish/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
