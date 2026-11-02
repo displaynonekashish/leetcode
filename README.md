@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/displaynonekashish/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/displaynonekashish/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/displaynonekashish/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1539-kth-missing-positive-number](https://github.com/displaynonekashish/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/displaynonekashish/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/displaynonekashish/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/displaynonekashish/leetcode/tree/master/0202-happy-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/displaynonekashish/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/displaynonekashish/leetcode/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/displaynonekashish/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/displaynonekashish/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/displaynonekashish/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/displaynonekashish/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/displaynonekashish/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
