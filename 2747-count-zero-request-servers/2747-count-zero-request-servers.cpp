@@ -1,47 +1,34 @@
 class Solution {
 public:
     vector<int> countServers(int n, vector<vector<int>>& logs, int x, vector<int>& queries) {
-        static int lh[1000002], qh[1000002];
-        static int ln[100005], qn[100005], cnt[100005];
-
-        int mx = 0;
-        for (int q : queries) mx = max(mx, q);
-
-        fill(lh, lh + mx + 2, -1);
-        fill(qh, qh + mx + 2, -1);
-        fill(cnt, cnt + n + 1, 0);
-
-        int m = logs.size();
-        for (int i = 0; i < m; i++) {
-            int t = logs[i][1];
-            if (t <= mx) {
-                ln[i] = lh[t];
-                lh[t] = i;
-            }
-        }
+        sort(logs.begin(), logs.end(), [](auto& a, auto& b) {
+            return a[1] < b[1];
+        });
 
         int q = queries.size();
-        for (int i = 0; i < q; i++) {
-            qn[i] = qh[queries[i]];
-            qh[queries[i]] = i;
-        }
+        vector<pair<int, int>> qs;
+        for (int i = 0; i < q; i++) qs.push_back({queries[i], i});
+        sort(qs.begin(), qs.end());
 
+        vector<int> cnt(n + 1, 0);
         vector<int> ans(q);
         int active = 0;
+        int l = 0, r = 0;
+        int m = logs.size();
 
-        for (int t = 1; t <= mx; t++) {
-            for (int i = lh[t]; i != -1; i = ln[i]) {
-                if (cnt[logs[i][0]]++ == 0) active++;
+        for (auto& p : qs) {
+            int hi = p.first;
+            int lo = p.first - x;
+
+            while (r < m && logs[r][1] <= hi) {
+                if (cnt[logs[r][0]]++ == 0) active++;
+                r++;
             }
-            int old = t - x - 1;
-            if (old >= 1) {
-                for (int i = lh[old]; i != -1; i = ln[i]) {
-                    if (--cnt[logs[i][0]] == 0) active--;
-                }
+            while (l < r && logs[l][1] < lo) {
+                if (--cnt[logs[l][0]] == 0) active--;
+                l++;
             }
-            for (int i = qh[t]; i != -1; i = qn[i]) {
-                ans[i] = n - active;
-            }
+            ans[p.second] = n - active;
         }
         return ans;
     }
